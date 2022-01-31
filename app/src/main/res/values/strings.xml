@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySharedPreferences</string>
+    <string name="txtCabecera">Ejemplo Shared Preferences</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtEmail">Email</string>
+    <string name="btnBoton">Guardar</string>
+</resources>
